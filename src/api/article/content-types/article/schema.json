@@ -45,7 +45,7 @@
       "inversedBy": "articles"
     },
     "shortDescription": {
-      "type": "string",
+      "type": "text",
       "required": true
     },
     "body": {
